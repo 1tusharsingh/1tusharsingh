@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tushar Singh</h1>
 <div align="center"> <img src="https://github.com/1tusharsingh/1tusharsingh/blob/main/GithubBanner.png.jpg">
-<h3 align="center">A Passionate Data Analyst from India</h3>
+<h3 align="center">A Passionate Data Analyst from India and in my free time i make Instagram Reels at https://www.instagram.com/thebearded.engineer/profilecard/?igsh=MzBlZmpxZnE2bm81 </h3>
 
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/6vIk.gif">
 
@@ -30,4 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1tusharsingh&show_icons=true&locale=en" alt="1tusharsingh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1tusharsingh&" alt="1tusharsingh" /></p>
+
 
